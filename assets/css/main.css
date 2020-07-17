@@ -148,7 +148,7 @@ mark {
 
 @media screen and (min-width: 992px) {
   .quick-margin {
-    margin-left: 150px;
+    margin-left: 300px;
   }
 }
 
@@ -3901,7 +3901,7 @@ body.is-touch #banner {
   display: none;
 }
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 2px) {
   /* Basic */
 
   html,
